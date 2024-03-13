@@ -15,7 +15,7 @@ Rescue authorities would receive the distress signal and dispatch rescue teams t
 In conclusion, remote floating ocean emergency buoys offer a reliable and effective solution for aiding lost swimmers in distress. Through their strategic deployment and advanced features, they enhance safety and provide crucial support until rescue teams can reach the stranded individuals.
 
 #
-### Automated Emergecy Response Boats
+### Automated Emergency Response Boats
 
 In addition to the remote floating ocean emergency buoys, the implementation of automated emergency boats could significantly bolster rescue efforts for lost swimmers. These boats would be equipped with advanced navigation systems, allowing them to swiftly navigate towards distress signals detected by the buoys. Operating autonomously or remotely controlled by rescue personnel, these boats could reach stranded swimmers faster and provide immediate assistance. With built-in life-saving equipment and medical supplies, they would serve as a crucial lifeline for those in distress, offering a safe haven until further help arrives.
 
