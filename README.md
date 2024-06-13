@@ -23,6 +23,10 @@ The integration of automated emergency boats into the rescue infrastructure woul
 
 Furthermore, the deployment of automated emergency boats underscores a commitment to innovation and safety in maritime rescue operations. By harnessing technology to improve response times and enhance the capabilities of rescue teams, these boats represent a proactive approach to safeguarding lives at sea. As part of a comprehensive emergency response strategy, they would contribute to reducing the risks associated with maritime emergencies, ultimately saving more lives and ensuring the safety of those venturing into the open waters.
 
-***
+#
+### Related Links
 
+[Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
+
+***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
