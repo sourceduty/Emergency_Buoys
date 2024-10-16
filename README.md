@@ -29,6 +29,8 @@ Furthermore, the deployment of automated emergency boats underscores a commitmen
 [Levitation Lab](https://github.com/sourceduty/Levitation_Lab)
 <br>
 [Boats](https://github.com/sourceduty/Boats)
+<br>
+[Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
