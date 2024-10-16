@@ -1,6 +1,8 @@
 ![Life Bouy](https://github.com/sourceduty/Emergency_Buoys/assets/123030236/a8564271-f517-41c0-aadb-d8e222cc18a0)
 
-### Concept Emergency Ocean Buoy with Life Jackets
+> Design concept for a series of remote floating ocean emergency buoys to aid lost swimmers.
+
+#
 
 Designing a series of remote floating ocean emergency buoys to aid lost swimmers requires careful consideration of various factors such as buoyancy, visibility, communication, and sustainability. The buoy could be constructed from durable and buoyant materials like high-density polyethylene (HDPE) or fiberglass. Its shape would be cylindrical with a conical top for stability against waves. Ideally, it should be around 1.5 meters in height and 0.5 meters in diameter for visibility and stability.
 
