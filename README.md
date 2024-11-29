@@ -34,5 +34,8 @@ Furthermore, the deployment of automated emergency boats underscores a commitmen
 <br>
 [Emergency Survival Gear](https://github.com/sourceduty/Emergency_Survival_Gear)
 
+#
+![Conceptual](https://github.com/user-attachments/assets/6067f61a-958e-4666-a593-1c71f440694e)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
